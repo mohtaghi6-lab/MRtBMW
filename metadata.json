@@ -1,0 +1,6 @@
+{
+  "name": "Car Headunit Dashboard",
+  "description": "High-fidelity BMW 728Li iDrive dashboard with Double-VANOS telemetry, 5-minute continuous voice AI assistant with continuous memory until MRT, BMW Live Cockpit, and GPS navigation.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
